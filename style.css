@@ -1,0 +1,22 @@
+.heading{
+    font-size:30px;
+    width:100%;
+    margin:0px;
+}
+.note{
+    font-size:15px;
+    color:black;
+}
+#song{
+    font-size:25px;
+}
+body{
+    background-image:url("https://th.bing.com/th/id/OIP.k_WmXoIhHs43FmLrSZ4AFwHaEo?pid=ImgDet&rs=1");
+    background-size:cover;
+    background-position: center;
+}
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+    margin-top:100px;
+}
